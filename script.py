@@ -1,6 +1,8 @@
-def thing(foo, *bar):
-  print(foo)
-  print(bar)
+if False:
+    print(1)
+elif False:
+    print(1)
+else:
+    print('omg')
 
-thing(1,2)
-thing(1,2,3)
+print('ye')
