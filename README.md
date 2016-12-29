@@ -5,6 +5,7 @@
 
 # Current
 - 2: Native Datatypes
+_up to 2.4.5_
 
 # Remaining
 - 3: Comprehensions
