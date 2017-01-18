@@ -3,13 +3,13 @@
 - 0: Installing Python
 - 1: Your First Python Program
 - 2: Native Datatypes
+- 3: Comprehensions
 
 # Current
-- 3: Comprehensions
-_up to 3.4_
+- 4: Strings
+_up to 4_
 
 # Remaining
-- 4: Strings
 - 5: Regular Expressions
 - 6: Closures & Generators
 - 7: Classes & Iterators
