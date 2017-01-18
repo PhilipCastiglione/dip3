@@ -2,13 +2,13 @@
 - -1: What’s New in “Dive Into Python 3”
 - 0: Installing Python
 - 1: Your First Python Program
+- 2: Native Datatypes
 
 # Current
-- 2: Native Datatypes
-_up to 2.4.5_
+- 3: Comprehensions
+_up to 3.4_
 
 # Remaining
-- 3: Comprehensions
 - 4: Strings
 - 5: Regular Expressions
 - 6: Closures & Generators
