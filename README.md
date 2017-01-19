@@ -4,14 +4,14 @@
 - 1: Your First Python Program
 - 2: Native Datatypes
 - 3: Comprehensions
+- 4: Strings
+- 5: Regular Expressions
 
 # Current
-- 4: Strings
-_up to 4_
+- 6: Closures & Generators
+_up to 6_
 
 # Remaining
-- 5: Regular Expressions
-- 6: Closures & Generators
 - 7: Classes & Iterators
 - 8: Advanced Iterators
 - 9: Unit Testing
@@ -26,4 +26,3 @@ _up to 4_
 - B: Special Method Names
 - C: Where to Go From Here
 - D: Troubleshooting
-
