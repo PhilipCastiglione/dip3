@@ -6,13 +6,13 @@
 - 3: Comprehensions
 - 4: Strings
 - 5: Regular Expressions
+- 6: Closures & Generators
 
 # Current
-- 6: Closures & Generators
-_up to 6_
+- 7: Classes & Iterators
+_up to 7_
 
 # Remaining
-- 7: Classes & Iterators
 - 8: Advanced Iterators
 - 9: Unit Testing
 - 10: Refactoring
