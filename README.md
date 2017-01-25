@@ -10,7 +10,7 @@
 
 # Current
 - 7: Classes & Iterators
-_up to 7_
+_up to 7.6_
 
 # Remaining
 - 8: Advanced Iterators
