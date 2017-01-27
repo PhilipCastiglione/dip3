@@ -7,13 +7,13 @@
 - 4: Strings
 - 5: Regular Expressions
 - 6: Closures & Generators
+- 7: Classes & Iterators
 
 # Current
-- 7: Classes & Iterators
-_up to 7.6_
+- 8: Advanced Iterators
+_up to 8_
 
 # Remaining
-- 8: Advanced Iterators
 - 9: Unit Testing
 - 10: Refactoring
 - 11: Files
