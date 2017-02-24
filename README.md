@@ -8,16 +8,16 @@
 - 5: Regular Expressions
 - 6: Closures & Generators
 - 7: Classes & Iterators
-
-# Current
 - 8: Advanced Iterators
-_up to 8_
-
-# Remaining
 - 9: Unit Testing
 - 10: Refactoring
 - 11: Files
+
+# Current
 - 12: XML
+_up to 12.4_
+
+# Remaining
 - 13: Serializing Python Objects
 - 14: HTTP Web Services
 - 15: Case Study: Porting chardet to Python 3
