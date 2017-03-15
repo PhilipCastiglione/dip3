@@ -12,14 +12,14 @@
 - 9: Unit Testing
 - 10: Refactoring
 - 11: Files
+- 12: XML
+- 13: Serializing Python Objects
 
 # Current
-- 12: XML
-_up to 12.4_
+- 14: HTTP Web Services
+_up to 14.5.3_
 
 # Remaining
-- 13: Serializing Python Objects
-- 14: HTTP Web Services
 - 15: Case Study: Porting chardet to Python 3
 - 16: Packaging Python Libraries
 - A: Porting Code to Python 3 with 2to3
